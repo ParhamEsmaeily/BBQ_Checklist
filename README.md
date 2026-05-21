@@ -1,2 +1,2 @@
 # BBQ_Checklist
-CRUD app to never miss an item for BBQ!
+CRUD React app to never miss an item for BBQ! 
